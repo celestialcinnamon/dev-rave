@@ -1,0 +1,29 @@
+h1{
+    color: red;
+    text-align: center;
+    background-color:black;
+    font-size:200px;
+    font-size: calc(1rem + 10vw);
+}
+.hanamichi{
+    width:817px;
+    height:978px;
+    background-image: url(sakuragi.jpg);
+    background-size:100%;
+    
+} 
+h2{
+    color: black;
+    text-align: center;
+    background-color: red;
+    font-size: 60px;
+    font-size: calc(1rem + 5vw);
+    
+}
+h3{
+    color: red;
+    text-align:center;
+    background-color: black;
+    font-size: 60px;
+    font-size: calc(1rem + 5vw);
+}

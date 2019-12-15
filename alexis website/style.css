@@ -1,0 +1,36 @@
+
+h1{
+    font-size: 75px;
+    text-align: center;
+    }
+    h1,h2 {
+       color: black;
+       background-color: aquamarine;
+       font-family: Arial, Helvetica, sans-serif;
+    
+    }
+    h2{
+        font-size: 35px;
+    }
+    p {
+    font-size: 25px;
+         }
+    .bike-background { 
+        width: 180px;
+        height: 180px;
+        background-image: url(pierre.jpg);
+        background-size: 100%;
+    }        
+    .road-bike{
+        width: 800px;
+        height: 800px;
+        background-image: url(roadbike.png);
+        background-size: 100%;
+    }
+    .mountain-bike{
+        width: 700px;
+        height: 443px;
+        background-image: url(mountain.png);
+        background-size: 100%;
+
+    }
